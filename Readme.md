@@ -15,19 +15,19 @@ It supports checking and adding yearly, monthly, and daily tax records.
 
 Tax Management App/
 ├── TaxManagementApp/
-│ ├── Models/
-│ │ └── TaxRecord.cs
-│ ├── Repositories/
-│ │ ├── ITaxRepository.cs
-│ │ └── InMemoryRepository.cs
-│ ├── Services/
-│ │ └── TaxManager.cs
-│ ├── Program.cs
-│ └── TaxManagementApp.csproj
+│   ├── Models/
+│   │   └── TaxRecord.cs
+│   ├── Repositories/
+│   │   ├── ITaxRepository.cs
+│   │   └── InMemoryRepository.cs
+│   ├── Services/
+│   │   └── TaxManager.cs
+│   ├── Program.cs
+│   └── TaxManagementApp.csproj
 │
 ├── TaxManagementApp.Tests/
-│ ├── TaxManagerTests.cs
-│ └── TaxManagementApp.Tests.csproj
+│   ├── TaxManagerTests.cs
+│   └── TaxManagementApp.Tests.csproj
 │
 └── README.md
 
