@@ -3,7 +3,6 @@
 This is a simple C# console application for managing and checking municipality tax rates based on dates.  
 It supports checking and adding yearly, monthly, and daily tax records.
 
-
 # Features
 
 - Add and query tax records for municipalities
@@ -15,19 +14,19 @@ It supports checking and adding yearly, monthly, and daily tax records.
 
 Tax Management App/
 ├── TaxManagementApp/
-│   ├── Models/
-│   │   └── TaxRecord.cs
-│   ├── Repositories/
-│   │   ├── ITaxRepository.cs
-│   │   └── InMemoryRepository.cs
-│   ├── Services/
-│   │   └── TaxManager.cs
-│   ├── Program.cs
-│   └── TaxManagementApp.csproj
+│ ├── Models/
+│ │ └── TaxRecord.cs
+│ ├── Repositories/
+│ │ ├── ITaxRepository.cs
+│ │ └── InMemoryRepository.cs
+│ ├── Services/
+│ │ └── TaxManager.cs
+│ ├── Program.cs
+│ └── TaxManagementApp.csproj
 │
 ├── TaxManagementApp.Tests/
-│   ├── TaxManagerTests.cs
-│   └── TaxManagementApp.Tests.csproj
+│ ├── TaxManagerTests.cs
+│ └── TaxManagementApp.Tests.csproj
 │
 └── README.md
 
@@ -44,7 +43,6 @@ It is recommended to open the main app folder using Visual Studio Code.
     2. Add new tax record (bonus task)
 5. Follow the on screen instructions to either view tax rates for a date or add a new municipality with dates and corresponding tax rates of your liking.
 
-
 # How to run unit tests
 
 1. Open the main app folder using VS Code
@@ -57,7 +55,4 @@ It is recommended to open the main app folder using Visual Studio Code.
 You just tested the following:
 1. GetTaxRate_ReturnsCorrectRate_ForExactMatch - Ensures correct tax rate is picked
 2. MunicipalityExists_ReturnsFalse_ForUnknownMunicipality - Validates unknown cities are rejected
-
-
-
 
