@@ -18,8 +18,8 @@ Tax Management App/
 │ ├── Models/
 │ │ └── TaxRecord.cs
 │ ├── Repositories/
-│   └── ITaxRepository.cs
-│   └── InMemoryRepository.cs
+│ │ ├── ITaxRepository.cs
+│ │ └── InMemoryRepository.cs
 │ ├── Services/
 │ │ └── TaxManager.cs
 │ ├── Program.cs
@@ -29,7 +29,7 @@ Tax Management App/
 │ ├── TaxManagerTests.cs
 │ └── TaxManagementApp.Tests.csproj
 │
-└── Readme.md 
+└── README.md
 
 # How to run the app
 
