@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\bin\Debug\net8.0\TaxManagementApp.exe
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\bin\Debug\net8.0\TaxManagementApp.deps.json
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\bin\Debug\net8.0\TaxManagementApp.runtimeconfig.json
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\bin\Debug\net8.0\TaxManagementApp.dll
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\bin\Debug\net8.0\TaxManagementApp.pdb
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.dll
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\refint\TaxManagementApp.dll
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.pdb
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\TaxManagementApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Tax Management App\TaxManagementApp\obj\Debug\net8.0\ref\TaxManagementApp.dll
